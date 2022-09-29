@@ -1,3 +1,5 @@
+# Note: Some code that was stored in folders is still missing from this repo (need to add it).
+
 # AdmissionsApplication
 
 CS191- Computer Science Capstone Project
